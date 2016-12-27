@@ -7,4 +7,6 @@ func main() {
 
 	fmt.Printf("hallo\n")
 
+	fmt.Printf("hallo\n")
+
 }
